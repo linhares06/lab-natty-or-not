@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast sobre Dungeons & Dragons é um mergulho fascinante nos elementos essenciais que tornam esse jogo de interpretação de papéis tão cativante e imprevisível. Com uma equipe de mestres do jogo experientes e jogadores apaixonados, foram explorados temas como narrativa, criação de personagens e reviravoltas na história, oferecendo dicas e insights valiosos para mestres e jogadores iniciantes e experientes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[Descript](https://www.descript.com)** para clonagem e sintetização de voz;
+- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O "ChatGPT" foi utilizado para criar o roteiro e a interação entre três participantes e um narrador. O software "Descript" conta com várias vozes em inteligência artificial que lê o texto de forma perfeita, permitindo a escolha e edição da voz de cada participante conforme necessário.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma introdução ao universo do Dungeons & Dragons, perfeito para quem busca uma compreensão rápida e envolvente deste jogo de interpretação de papéis. Os ouvintes são guiados por uma conversa breve entre três mestres do jogo e um narrador.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O PODCAST AQUI](https://share.descript.com/view/MHyeNkPolCJ)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi fascinante usar o "Descript" para gerar áudio com vozes sintetizadas, escolhendo vozes diferentes para cada participante com base nos textos gerados pelo ChatGPT. Isso economizou muito tempo que seria gasto na criação e gravação de textos com pessoas diferentes para cada participante do podcast.
